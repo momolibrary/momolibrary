@@ -7,8 +7,8 @@ draft: false
 tags: ["infinite"]
 categories: ["infinite"]
 author: "詹姆斯·卡尔斯"
-featuredImagePreview: https://libmind.github.io/img/e03_finite_and_infinite_games/zh.png
-featuredImage: https://libmind.github.io/img/e03_finite_and_infinite_games/zh.png
+featuredImagePreview: https://cdn.plmxs.top/images/zh.png
+featuredImage: https://cdn.plmxs.top/images/zh.png
 ---
 
 ![images](https://cdn.plmxs.top/images/000003-1662993462043-1.jpg)

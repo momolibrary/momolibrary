@@ -1,5 +1,5 @@
 ---
-title: "Finite and Infinite Games"
+title: "Finite and Infinite Games-en"
 summary: "A Vision of Life as Play and Possibility"
 date: 2022-09-10T13:04:41+08:00
 draft: false
@@ -7,8 +7,8 @@ draft: false
 tags: ["infinite"]
 categories: ["infinite"]
 author: "James P. Carse"
-featuredImagePreview: https://libmind.github.io/img/e03_finite_and_infinite_games/en.png
-featuredImage: https://libmind.github.io/img/e03_finite_and_infinite_games/en.png
+featuredImagePreview: https://cdn.plmxs.top/images/en.png
+featuredImage: https://cdn.plmxs.top/images/en.png
 ---
 
 ![images](https://cdn.plmxs.top/images/000003.jpg)
